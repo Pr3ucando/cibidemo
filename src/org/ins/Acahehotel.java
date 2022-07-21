@@ -93,7 +93,8 @@ public class Acahehotel {
 		 
 		 robot.keyPress(KeyEvent.VK_ENTER);
 		 robot.keyRelease(KeyEvent.VK_ENTER);
-		 
+		 robot.keyPress(KeyEvent.VK_ENTER);
+		 robot.keyRelease(KeyEvent.VK_ENTER);
 		 
 		 
 		 
